@@ -98,5 +98,5 @@ This project is licensed under the MIT License.
 
 Rahul Gurbani
 
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [https://www.linkedin.com/in/rahulgurbani](https://www.linkedin.com/in/rahulgurbani)
+* GitHub: [https://github.com/rahul-gurbani-73](https://github.com/rahul-gurbani-73)
+* LinkedIn: [https://www.linkedin.com/in/rahul-gurbani-746b07288/](https://www.linkedin.com/in/rahul-gurbani-746b07288/)
