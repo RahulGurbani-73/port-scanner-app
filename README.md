@@ -29,7 +29,7 @@ A modern, interactive React-based port scanning simulator with dark/light mode s
 Follow these steps to run the project locally:
 
 1. Clone the repository:
-   git clone [https://github.com/yourusername/cybershield-port-scanner.git](https://github.com/rahulgurbani-73/port-scanner-app.git)
+   git clone [https://github.com/rahulgurbani-73/port-scanner-app.git](https://github.com/rahulgurbani-73/port-scanner-app.git)
    
 
 3. Navigate to the project directory:
